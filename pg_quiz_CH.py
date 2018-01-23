@@ -147,4 +147,4 @@ elif points >=7 and points <=3:
 #Higens
 elif points >=10:
     pg.alert("You are Higgens!")
-    webbroswer.open("https://www.google.com/search?rlz=1C1GCEA_enUS752US752&biw=1083&bih=677&tbm=isch&sa=1&ei=SkdnWtnWMIjq_AbpypPgCQ&q=higgins+from+grown+ups&oq=higens+from+grown+ups&gs_l=psy-ab.1.0.0i13k1.67647.73974.0.75436.10.10.0.0.0.0.84.611.10.10.0....0...1c.1.64.psy-ab..0.4.281...0i7i5i30k1j0i7i30k1.0.OX77_opd_K8#imgrc=EphZsjzarSLb0M:")
+    webbrowser.open("https://www.google.com/search?rlz=1C1GCEA_enUS752US752&biw=1083&bih=677&tbm=isch&sa=1&ei=SkdnWtnWMIjq_AbpypPgCQ&q=higgins+from+grown+ups&oq=higens+from+grown+ups&gs_l=psy-ab.1.0.0i13k1.67647.73974.0.75436.10.10.0.0.0.0.84.611.10.10.0....0...1c.1.64.psy-ab..0.4.281...0i7i5i30k1j0i7i30k1.0.OX77_opd_K8#imgrc=EphZsjzarSLb0M:")
